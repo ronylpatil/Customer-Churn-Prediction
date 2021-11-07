@@ -1,1 +1,2 @@
-# Customer-Churn-Prediction---Machine-Learning-Project
+# Customer Churn Prediction - Machine Learning Project
+It is Machine Learning based project where different ensembel techniques are used and at the end got accuracy of 80%. Here the whole project is automated using scikit learn pipeline. An End to End pipeline is created, begin from data preprocessing to model tunning each and every thing is wrapped inside scikit learn pipeline and executed as a single entity.
