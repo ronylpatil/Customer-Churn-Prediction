@@ -1,5 +1,8 @@
 # Customer Churn Prediction - Machine Learning
 
+##### Profile Visits :
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.Customer-Churn-Prediction&left_color=lightgrey&right_color=blueviolet&left_text=visitors) 
+
 <p align="center">
   <img class="center" src ="https://s16353.pcdn.co/wp-content/uploads/2018/06/Churn.png" alt="Drawing" style="width: 1400px; height: 600px">
 </p>
